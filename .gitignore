@@ -4,3 +4,4 @@
 /fuzz/in
 **/*.rs.bk
 Cargo.lock
+process-repo.log
